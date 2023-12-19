@@ -2,7 +2,7 @@
 //  CatergoriesApp_InClass5UITests.swift
 //  CatergoriesApp-InClass5UITests
 //
-//  Created by Gregory Hagins II on 11/7/23.
+//  Created by Gregory Hagins II
 //
 
 import XCTest
