@@ -19,7 +19,6 @@
 		5BFEC4492AFB1F780025692B /* CategoriesAppFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFEC4482AFB1F780025692B /* CategoriesAppFunctions.swift */; };
 		5BFEC44B2AFB449D0025692B /* ApplicationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFEC44A2AFB449D0025692B /* ApplicationListView.swift */; };
 		5BFEC44E2AFB4CCF0025692B /* DetailedApplicationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFEC44D2AFB4CCF0025692B /* DetailedApplicationView.swift */; };
-		5BFEC4562AFD1C340025692B /* ApplicationListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFEC4552AFD1C340025692B /* ApplicationListViewModel.swift */; };
 		5BFEC4AB2B03AC040025692B /* AppsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5BFEC4AA2B03AC040025692B /* AppsData.json */; };
 		5BFEC4AD2B03AC350025692B /* AppsDataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFEC4AC2B03AC350025692B /* AppsDataViewModel.swift */; };
 /* End PBXBuildFile section */
@@ -57,7 +56,6 @@
 		5BFEC4482AFB1F780025692B /* CategoriesAppFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesAppFunctions.swift; sourceTree = "<group>"; };
 		5BFEC44A2AFB449D0025692B /* ApplicationListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationListView.swift; sourceTree = "<group>"; };
 		5BFEC44D2AFB4CCF0025692B /* DetailedApplicationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedApplicationView.swift; sourceTree = "<group>"; };
-		5BFEC4552AFD1C340025692B /* ApplicationListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationListViewModel.swift; sourceTree = "<group>"; };
 		5BFEC4AA2B03AC040025692B /* AppsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AppsData.json; sourceTree = "<group>"; };
 		5BFEC4AC2B03AC350025692B /* AppsDataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsDataViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -178,7 +176,6 @@
 			isa = PBXGroup;
 			children = (
 				5BFEC44A2AFB449D0025692B /* ApplicationListView.swift */,
-				5BFEC4552AFD1C340025692B /* ApplicationListViewModel.swift */,
 			);
 			path = ApplicationListView;
 			sourceTree = "<group>";
@@ -335,7 +332,6 @@
 				5BFEC44E2AFB4CCF0025692B /* DetailedApplicationView.swift in Sources */,
 				5BFEC4472AFA53520025692B /* AppsData.swift in Sources */,
 				5BFEC41F2AFA533E0025692B /* CategoryListView.swift in Sources */,
-				5BFEC4562AFD1C340025692B /* ApplicationListViewModel.swift in Sources */,
 				5BFEC41D2AFA533E0025692B /* CatergoriesApp_InClass5App.swift in Sources */,
 				5BFEC4492AFB1F780025692B /* CategoriesAppFunctions.swift in Sources */,
 				5BFEC4AD2B03AC350025692B /* AppsDataViewModel.swift in Sources */,

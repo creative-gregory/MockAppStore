@@ -7,7 +7,7 @@
 
 import Foundation
 
-class AppsDataViewModel: ObservableObject {
+@MainActor class AppsDataViewModel: ObservableObject {
     enum LoadingState {
         case idle
         case loading
